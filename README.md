@@ -1,6 +1,5 @@
-# VerySimpleSnakeGame
-Adından da anlaşılacağı gibi gerçekten çok basit bir şekilde hazırlanmış bir yılan oyunu.
 # 🐍 Aşırı Basit Yılan Oyunu
+Adından da anlaşılacağı gibi gerçekten çok basit bir şekilde hazırlanmış bir yılan oyunu. Tamamen keyfi hazırlanmış bir oyun.
 
 Bu proje, klasik **yılan oyununu** Pygame kütüphanesi ile Python dilinde modern ve renkli bir şekilde yeniden tasarlamaktadır. Başlangıç ekranı, skor kaydı, TOP 5 skor listesi, renkli yılan ve yiyecekler, ses efektleri ve daha fazlası ile zenginleştirilmiştir.
 
